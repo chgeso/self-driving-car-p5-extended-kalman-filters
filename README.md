@@ -48,6 +48,6 @@ Here are the accuracy of RMSE. px, py, vx, vy output coordinates must have an RM
 
 ![alt text][image1]
 
-In this project, dataset2 result is also below the criterion.
+In this project, dataset2 result meets the criterion.
 
 ![alt text][image2]
